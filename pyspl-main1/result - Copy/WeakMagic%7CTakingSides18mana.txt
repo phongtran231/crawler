@@ -1,0 +1,1 @@
+[{"summoner_id":437,"monster_1_id":184,"monster_2_id":185,"monster_3_id":90,"monster_4_id":0,"monster_5_id":0,"monster_6_id":0,"ruleset":"Weak Magic|Taking Sides","mana_cap":18,"tot":1,"ratio":1.0}]

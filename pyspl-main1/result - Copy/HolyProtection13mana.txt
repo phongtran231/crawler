@@ -1,0 +1,1 @@
+[{"summoner_id":16,"monster_1_id":13,"monster_2_id":17,"monster_3_id":194,"monster_4_id":172,"monster_5_id":338,"monster_6_id":0,"ruleset":"Heavy Hitters","mana_cap":22,"tot":1,"ratio":1.0},{"summoner_id":16,"monster_1_id":50,"monster_2_id":52,"monster_3_id":47,"monster_4_id":138,"monster_5_id":141,"monster_6_id":51,"ruleset":"Heavy Hitters","mana_cap":22,"tot":1,"ratio":0.0}]

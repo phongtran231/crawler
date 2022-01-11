@@ -1,0 +1,1 @@
+[{"summoner_id":438,"monster_1_id":184,"monster_2_id":372,"monster_3_id":371,"monster_4_id":373,"monster_5_id":0,"monster_6_id":0,"ruleset":"Standard","mana_cap":32,"tot":1,"ratio":100},{"summoner_id":438,"monster_1_id":361,"monster_2_id":141,"monster_3_id":359,"monster_4_id":354,"monster_5_id":357,"monster_6_id":360,"ruleset":"Standard","mana_cap":32,"tot":1,"ratio":0}]
